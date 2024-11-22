@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Levels/main.umap",
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Blueprints/BP_Player.uasset",
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Blueprints/InputActions/IA_TestNoice.uasset",
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Blueprints/InputMappingContext/IMC_InputMappingContext.uasset",
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Blueprints/BP_MonsterActor.uasset",
+				"C:/UnrealGit/UnrealHorrorGame/UnrealHorrorGame/Content/Blueprints/InputActions/IA_MouseClick.uasset",
 				"C:/Users/room/Documents/UnrealEngine/Content/Levels/main.umap",
 				"C:/Users/room/Documents/UnrealEngine/Content/Blueprints/BP_Monster.uasset",
 				"C:/Users/room/Documents/UnrealEngine/Content/Blueprints/BP_Player.uasset",
