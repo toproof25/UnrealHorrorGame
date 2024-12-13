@@ -76,3 +76,35 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 Exit/DerivedDataCache/*
+
+./.git/objects/7e/342dd8d5472eb5d4afa1fcd9c064b28462a3e9
+./.git/objects/9f/25a5e3c73c2d0a847e8386d1ec34fd539c5114
+./Exit/Binaries/Win64/Maze.exe
+./Exit/Binaries/Win64/Maze.pdb
+./Exit/Content/Fab/Megascans/3D/Wooden_Wheel_ueukbgzfa/Raw/SM_ueukbgzfa_tier_0.uasset
+./Exit/Content/Fab/Megascans/3D/Wooden_Wheel_ueukbgzfa/Raw/T_ueukbgzfa_8k_N.uasset
+./Exit/Content/Fab/Megascans/3D/Worn_Wooden_Beam_tgmsdc0fa/Raw/T_tgmsdc0fa_8K_N.uasset
+./Exit/Content/Fab/Megascans/Surfaces/Stone_Wall_teqlebdg/Raw/T_teqlebdg_8K_N.uasset
+./Exit/Content/Fab/Skeleton/Skeleton_with_armature_only.uasset
+./Exit/Content/Maze/Nordic_Forest_Ground_Patch_Root_tkwqbbofa/Raw/tkwqbbofa_tier_0.uasset
+./Exit/Content/Maze/Nordic_Forest_Ground_Patch_Root_tkwqbbofa/Raw/T_tkwqbbofa_8K_B.uasset
+./Exit/Content/Maze/Nordic_Forest_Ground_Patch_Root_tkwqbbofa/Raw/T_tkwqbbofa_8K_N.uasset
+./Exit/Content/Maze/Nordic_Forest_Ledge_Dirt_Root_Medium_tkhtchufa/Raw/tkhtchufa_tier_0.uasset
+./Exit/Content/Maze/Nordic_Forest_Ledge_Dirt_Root_Medium_tkhtchufa/Raw/T_tkhtchufa_8K_N.uasset
+./Exit/Content/Maze/Nordic_Forest_Ledge_Root_Large_xj1odjt/Raw/T_xj1odjt_8K_N.uasset
+./Exit/Content/Maze/Wooden_Wheelbarrow_tmruaaeda/Raw/tmruaaeda_tier_0.uasset
+./Exit/Content/Maze/Wooden_Wheelbarrow_tmruaaeda/Raw/T_tmruaaeda_8K_N.uasset
+./Exit/Content/Maze/Worn_Wooden_Beam_tgnhcaafa/Raw/T_tgnhcaafa_8K_N.uasset
+./Exit/Content/Maze/Worn_Wooden_Beam_tgnidj2fa/Raw/T_tgnidj2fa_8K_N.uasset
+./Exit/Content/Media/source/Start_Cut_Scene.mp4
+./Exit/Intermediate/Build/Win64/x64/Maze/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h.pch
+./Exit/Saved/Cooked/Windows/Maze/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/Cooked/Windows/Maze/Content/ShaderArchive-Maze-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/Cooked/Windows/Maze/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/Cooked/Windows/Maze/Metadata/ShaderLibrarySource/ShaderArchive-Maze-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Maze-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+./Exit/Saved/StagedBuilds/Windows/Maze/Binaries/Win64/Maze.exe
+./Exit/Saved/StagedBuilds/Windows/Maze/Binaries/Win64/Maze.pdb
+./Exit/Saved/StagedBuilds/Windows/Maze/Content/Media/source/Start_Cut_Scene.mp4
+./Exit/Saved/StagedBuilds/Windows/Maze/Content/Paks/Maze-Windows.ucas
